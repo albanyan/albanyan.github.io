@@ -31,4 +31,6 @@ Education
 Work Experience
 ======
 
-Work Experience parahraph
+06/2009 – Present: Faculty member in College of Computer Science at Prince Sattam bin Abdulaziz University
+06/2008 – 09/2008: Trainee at SABIC (Saudi Basic Industries Corporation, IT Department)
+
