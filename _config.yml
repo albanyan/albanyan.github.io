@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdullah albanyan / Albanyan's CV"
+title                    : "Abdullah Albanyan"
 title_separator          : "-"
 name                     : &name "Abdullah"
 description              : &description "PhD Candidate, Computer Science and Engineering, University of North Texas"
