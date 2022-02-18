@@ -5,5 +5,5 @@ permalink: /contact/
 ---
 
 
-Please contact me through the email
-albanyan@yahoo.com
+abdullahalbanyan [at] my.unt.edu
+
