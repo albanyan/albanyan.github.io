@@ -24,22 +24,21 @@ P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1 P1
 
 News 
 ======
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
-
-P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2 P2
+- December 2021: Our paper on Analyzing the hateful tweet and replies has been accepted at the AAAI 2022.
 
 
 Publication
+======
+- Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. AAAI 2022 <br /> Abdullah Albanyan, Eduardo Blanco <br />
+[pdf][code][corpus][pip]
+
+Education
+======
+- PhD, Computer Science, University of North Texas, Denton, Texas, United States (2019 - Now)
+- MSc in Software Engineering, Southern Methodist University, Dallas, Texas, United States (2012 - 2014)
+- BSc in Information System, King Saud University, Riyadh, Saudi Arabia (2004 - 2009)
+
+Work Experience
 ======
 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 
 
@@ -56,5 +55,3 @@ P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3
 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 
 
 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 P3 
-
-
