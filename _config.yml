@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abdullah albanyan / Albanyan's CV"
 title_separator          : "-"
 name                     : &name "Abdullah"
-description              : &description "Doctoral Candidate, Computer Science and Engineering, UNT"
+description              : &description "Doctoral Candidate, Computer Science and Engineering, at University of North Texas"
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "albanyan/albanyan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abdullah Albanyan"
   avatar           : "albanyan.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctoral Candidate, Computer Science and Engineering, at University of North Texas"
   location         : "Denton,Texas"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
