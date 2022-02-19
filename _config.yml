@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Abdullah Albanyan"
-title_separator          : "-"
-name                     : &name "Abdullah Albanyan"
+title_separator          : "|"
+name                     : &name "Abdullah Albanyan. Natural Language Processing. Computational Linguistics"
 description              : &description "PhD Candidate, Computer Science and Engineering, University of North Texas"
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
