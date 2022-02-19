@@ -83,8 +83,8 @@ author:
   name             : "Abdullah Albanyan"
   avatar           : "albanyan_1.jpg"
   bio              : "PhD Student, Computer Science and Engineering, University of North Texas"
-  location         : "Denton,Texas"
-  employer         : "Sattam bin Abdulaziz University"
+  location         : #"Denton,Texas"
+  employer         : #"Sattam bin Abdulaziz University"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "abdullahalbanyan@my.unt.edu"
