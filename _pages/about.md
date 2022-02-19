@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a PhD student in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at University of North Texas. I am working under the supervision of Professor <a href="https://isearch.asu.edu/profile/3996580">Eduardo Blanco</a>. My research interests include natural language processing and artificial intelligence. Mainly, I am analyzing the hateful contents and replies on Twitter.
+I am a PhD student in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at University of North Texas. I am working under the supervision of Professor <a href="https://isearch.asu.edu/profile/3996580">Eduardo Blanco</a>. My research interests include natural language processing and artificial intelligence. Mainly, I am analyzing the hateful tweets with thier replies on Twitter.
 
 </p>
 
