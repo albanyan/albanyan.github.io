@@ -33,6 +33,7 @@ Education
 Work Experience
 ======
 
-- **06/2009 – Present**: Faculty member in College of Computer Science at Prince Sattam bin Abdulaziz University
-- **06/2008 – 09/2008**: Trainee at SABIC (Saudi Basic Industries Corporation, IT Department)
+- 12/2013 – Present: Faculty member in College of Computer Science at Prince Sattam bin Abdulaziz University
+- 06/2009 – 12/2013: Faculty member in College of Computing and Information Science at King Saud University
+- 06/2008 – 09/2008: Trainee at SABIC (Saudi Basic Industries Corporation, IT Department)
 
