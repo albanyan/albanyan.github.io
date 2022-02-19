@@ -7,7 +7,7 @@ author_profile: true
 ---
 <br /> 
 
-Instructor, College of Computer Engineering and Science, Prince Sattam Bin Abdulaziz University (2013-Present):
+Instructor, College of Computer Engineering and Science, Prince Sattam Bin Abdulaziz University (2013-present):
 - Software Project Management.
 - Fundamental of Software Engineering.
 - Human Computer Interaction.
