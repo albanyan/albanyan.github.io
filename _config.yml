@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdullah Albanyan. Natural Language Processing. Computational Linguistics."
+title                    : "Abdullah Albanyan"
 title_separator          : "|"
 name                     : &name "Abdullah Albanyan"
 description              : &description "PhD Student, Computer Science and Engineering, University of North Texas"
