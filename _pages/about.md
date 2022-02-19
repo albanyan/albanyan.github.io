@@ -26,7 +26,7 @@ Publication
 
 Education
 ======
-- PhD, Computer Science, University of North Texas, Denton, Texas, United States (2019 - Now)
+- PhD, Computer Science, University of North Texas, Denton, Texas, United States (2019 - present)
 - MSc in Software Engineering, Southern Methodist University, Dallas, Texas, United States (2012 - 2014)
 - BSc in Information System, King Saud University, Riyadh, Saudi Arabia (2004 - 2009)
 
