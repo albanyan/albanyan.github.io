@@ -16,7 +16,7 @@ I am a PhD student in the <a href="https://computerscience.engineering.unt.edu/"
 
 News 
 ======
-- December 2021: Our paper on Analyzing the hateful tweet and replies has been accepted at the AAAI 2022.
+- December 2021: Our paper on Analyzing the hateful tweets and replies has been accepted at the AAAI 2022.
 
 
 Publication
