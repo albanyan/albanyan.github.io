@@ -5,8 +5,18 @@ permalink: /teaching_experience/
 author_profile: true
 ---
 
-Instructor,      ,      
+Instructor, College of Computer Engineering and Science, Prince Sattam Bin Abdulaziz University (2014-Present):
+- Software Project Management.
+- Fundamental of Software Engineering.
+- Human Computer Interaction
+- Computer Programming I (in C language)
+- Computer Programming I (in C++ language)
+- Computer Programming I (in Java language)
+
+Instructor, College of Computing and Information Science, King Saud University (2009-2013):
+- Computer skills Course
+- Discrete mathematics
 
 ### Teaching Awards
 
-The Ideal Faculty Member for the Year (2015-2016) at the level of the college of computer engineering and sciences, Prince Sattam bin Abdulaziz University
+The Ideal Faculty Member Award for the year (2015-2016).
