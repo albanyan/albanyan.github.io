@@ -10,8 +10,8 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
     
- - title: "Teaching"
-   url: /teaching_experience/
+  - title: "Teaching"
+    url: /teaching_experience/
 
   - title: "Contact"
     url: /contact/
