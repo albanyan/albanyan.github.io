@@ -13,8 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching_experience/
 
-  - title: "Contact"
-    url: /contact/
+#   - title: "Contact"
+#     url: /contact/
 
   - title: "Contact_me"
     url: /contact_me/
