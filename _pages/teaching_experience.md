@@ -17,9 +17,8 @@ Instructor, College of Computer Engineering and Science, Prince Sattam Bin Abdul
 <br /> 
 
 Instructor, College of Computing and Information Science, King Saud University (2009-2013):
-- Computer skills Course.
-- Discrete mathematics.
-<br /> 
+- Computer Skills Course.
+- Discrete Mathematics.
 <br /> 
 
 ### Teaching Awards
