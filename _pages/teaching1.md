@@ -1,5 +1,5 @@
 ---
 title: "Teaching"
 layout: archive
-permalink: /teaching_/
+permalink: /teaching1/
 ---
