@@ -27,8 +27,8 @@ Publication
 Education
 ======
 - PhD, Computer Science and Engineering, University of North Texas _(2019 - present)_
-- MSc in Software Engineering, Southern Methodist University _(2012 - 2014)_
-- BSc in Information System, King Saud University _(2004 - 2009)_
+- MSc, Software Engineering, Southern Methodist University _(2012 - 2014)_
+- BSc, Information System, King Saud University _(2004 - 2009)_
 
 Work Experience
 ======
