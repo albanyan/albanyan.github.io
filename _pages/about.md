@@ -21,8 +21,9 @@ News
 
 Publication
 ======
-- Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. AAAI 2022 <br /> Abdullah Albanyan, Eduardo Blanco <br />
-<!-- [pdf][code][corpus][pip] -->
+- Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. _In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence_, Accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), To Appear.
+<!-- [bibtex](https://aaai.org/Conferences/AAAI-22/) -->
+<!-- [pdf][code][corpus][bib] -->
 
 Education
 ======
