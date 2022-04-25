@@ -16,12 +16,12 @@ I am a PhD student in the <a href="https://computerscience.engineering.unt.edu/"
 
 News 
 ======
-- December 2021: Our paper on Analyzing the hateful tweets and replies has been accepted at the AAAI 2022.
+- December 2021: Our paper on analyzing the hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
 
 Publication
 ======
-- Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. _In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence_, Accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), To Appear.
+- Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. _In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence_, Accepted, To Appear.
 <!-- [bibtex](https://aaai.org/Conferences/AAAI-22/) -->
 <!-- [pdf][code][corpus][bib] -->
 
