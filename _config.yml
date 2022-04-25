@@ -86,7 +86,7 @@ author:
   location         : #"Denton,Texas"
   employer         : #"Sattam bin Abdulaziz University"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "abdullahalbanyan@my.unt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
