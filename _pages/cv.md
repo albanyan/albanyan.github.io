@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find details about my professional career in my Curriculum Vitae (pdf). 
+Soon
