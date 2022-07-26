@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a PhD candidate in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. I am working under the supervision of Professor <a href="https://isearch.asu.edu/profile/3996580">Eduardo Blanco</a>. My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
+I am a PhD candidate in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. I am working under the supervision of Professor <a href="https://eduardoblanco.github.io/">Eduardo Blanco</a>. My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
 
 </p>
 
