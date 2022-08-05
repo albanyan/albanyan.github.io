@@ -16,7 +16,7 @@ I am a PhD candidate in the <a href="https://computerscience.engineering.unt.edu
 
 News 
 ======
-- August 2022: I am invited to becaome a Program Committee (PC) Member for the Thirty-Seventh AAAI Conference on Artificial Intelligence ([AAAI-23](https://aaai.org/Conferences/AAAI-23/)).
+- August 2022: I am invited to becaome a Program Committee Member for the Thirty-Seventh AAAI Conference on Artificial Intelligence ([AAAI-23](https://aaai.org/Conferences/AAAI-23/)).
 - December 2021: Our paper on analyzing the hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
 
