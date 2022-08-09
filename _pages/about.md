@@ -16,10 +16,10 @@ I am a PhD candidate in the <a href="https://computerscience.engineering.unt.edu
 
 News 
 ======
-- 08/2022: I am invited to become a Program Committee Member for the Thirty-Seventh AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/)).
-- 04/2022: I passed the Dissertation Proposal Defense.
-- 12/2021: I passed the Qualifier Exam.
-- 12/2021: Our paper on analyzing the hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+- 08/2022&nbsp;: I am invited to become a Program Committee Member for the Thirty-Seventh AAAI Conference on Artificial Intelligence ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/)).
+- 04/2022&nbsp;: I passed the Dissertation Proposal Defense.
+- 12/2021&nbsp;&nbsp;: I passed the Qualifier Exam.
+- 12/2021&nbsp;&nbsp;: Our paper on analyzing the hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
 
 Publication
