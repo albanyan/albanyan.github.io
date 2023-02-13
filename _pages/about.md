@@ -22,7 +22,7 @@ News
 - 12/2021: Our paper on analyzing the hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
 
-Publication
+Publications
 ======
 
 - Shabbab Algamdi, **Abdullah Albanyan**, and Stephanie Ludi. 2023. Investigating the Usability Issues in Mobile Applications Reviews Using A Deep Learning Model. IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC). <br />
@@ -48,7 +48,8 @@ Education
 Work Experience
 ======
 
-- Faculty member in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – present)_
-- Faculty member in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
+- Lecturer in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2013 – present)_
+- Demonstrator in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – 2013)_
+- Demonstrator in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
 - Trainee at Saudi Basic Industries Corporation (SABIC) _(2008)_
 
