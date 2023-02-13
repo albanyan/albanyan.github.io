@@ -45,7 +45,7 @@ Education
 - MSc, Software Engineering, Southern Methodist University _(2012 - 2014)_
 - BSc, Information System, King Saud University _(2004 - 2009)_
 
-Work Experience
+Work Experiences
 ======
 
 - Lecturer in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2013 – present)_
