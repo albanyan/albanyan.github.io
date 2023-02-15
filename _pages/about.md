@@ -33,7 +33,7 @@ _(Accepted, To Appear)_
 [[paper link](https://ieeexplore.ieee.org/abstract/document/10020570)]
 
 
-- Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. Proceedings of the AAAI Conference on Artificial Intelligence, 36(10), 10418-10426. <br />
+- Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), [Acceptance rate 15%], 36(10), 10418-10426.   <br />
 [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/21284)]
 [[bibtex](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=21284&publicationId=19571)]
 [[corpus](https://github.com/albanyan/hateful-tweets-replies)]
