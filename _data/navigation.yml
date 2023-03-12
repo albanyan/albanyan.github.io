@@ -15,7 +15,7 @@ main:
     url: /teaching_experience/
 
   - title: "CV"
-    url: _pages/cv.html
+    url: /_pages/cv.html
 
 #   - title: "Contact"
 #     url: /contact/
