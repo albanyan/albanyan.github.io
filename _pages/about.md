@@ -43,7 +43,7 @@ _(Accepted, To Appear)_
 
 Education
 ======
-- PhD, Computer Science and Engineering, University of North Texas _(2019 - present)_
+- PhD, Computer Science and Engineering, University of North Texas _(2019 - 2023)_
 - MSc, Software Engineering, Southern Methodist University _(2012 - 2014)_
 - BSc, Information System, King Saud University _(2004 - 2009)_
 
