@@ -28,8 +28,7 @@ Publications
 ======
 
 - Shabbab Algamdi, Abdullah Albanyan, and Stephanie Ludi. 2023. Investigating the Usability Issues in Mobile Applications Reviews Using A Deep Learning Model. IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC). <br />
-_(Accepted, To Appear)_
-
+[[paper link](https://ieeexplore.ieee.org/abstract/document/10099350/)]
 
 - Shabbab Algamdi, Abdullah Albanyan, Sayed Shah, and Zeenat Tariq. 2022. Twitter Accounts Suggestion: Pipeline Technique SpaCy Entity Recognition. IEEE International Conference on Big Data (Big Data), pp. 5121-5125. <br />
 [[paper link](https://ieeexplore.ieee.org/abstract/document/10020570)]
