@@ -16,6 +16,7 @@ I am a PhD candidate in the <a href="https://computerscience.engineering.unt.edu
 
 News 
 ======
+- 05/2023: Our paper titled "Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis" has been accepted at [*SEM 2023](https://sites.google.com/view/starsem2023/home?authuser=0), co-located with [ACL 2023](https://2023.aclweb.org/).
 - 03/2023: I passed the Dissertation Defense.
 - 02/2023: Invited to serve as a reviewer for [ACL 2023](https://2023.aclweb.org/).
 - 08/2022: Invited to become a Program Committee Member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
@@ -32,7 +33,6 @@ Publications
 
 - Shabbab Algamdi, Abdullah Albanyan, Sayed Shah, and Zeenat Tariq. 2022. Twitter Accounts Suggestion: Pipeline Technique SpaCy Entity Recognition. IEEE International Conference on Big Data (Big Data), pp. 5121-5125. <br />
 [[paper link](https://ieeexplore.ieee.org/abstract/document/10020570)]
-
 
 - Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), [Acceptance rate 15%], 36(10), 10418-10426.   <br />
 [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/21284)]
