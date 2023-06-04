@@ -8,7 +8,7 @@ main:
     url: /about/
       
   - title: "Publications"
-    url: /publications/
+    url: /publications_/
 
   - title: "Teaching"
     url: /teaching_experience/
