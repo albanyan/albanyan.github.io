@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : " "
 title_separator          : "|"
-name                     : &name "Dr. Abdullah Albanyan"
+name                     : &name "Abdullah Albanyan"
 description              : &description "Ph.D. in Computer Science and Engineering from University of North Texas"
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdullah Albanyan"
+  name             : "Dr. Abdullah Albanyan"
   avatar           : "albanyan_2.jpg"
   bio              : "Ph.D. in Computer Science and Engineering from University of North Texas. Interested in: Deep Learning, Natural Language Processing, Computational Linguistics"
   location         : "Riyadh,Saudi Arabia"
