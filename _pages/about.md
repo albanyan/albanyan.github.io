@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I graduated with a Ph.D. in Computer Science and Engineering from the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. My di
-My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
+I graduated with a Ph.D. in Computer Science and Engineering from the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
 
 </p>
 
