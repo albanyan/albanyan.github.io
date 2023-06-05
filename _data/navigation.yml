@@ -17,7 +17,8 @@ main:
  #   url: /files/CV.pdf
 
   - title: "CV"
-    url: /cv/
+    url: /files/albanyan_cv.pdf
+ #   url: /cv/
  
 #   - title: "Contact"
 #     url: /contact/
