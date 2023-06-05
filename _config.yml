@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : " "
 title_separator          : "|"
-name                     : &name "Abdullah Albanyan"
+name                     : &name "Dr. Abdullah Albanyan"
 description              : &description "Ph.D. in Computer Science and Engineering from University of North Texas"
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
