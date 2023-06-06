@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Abdullah Albanyan &ensp; &ensp; &ensp; د. عبدالله البنيان"
+title: "Dr. Abdullah Albanyan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
