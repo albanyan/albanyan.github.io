@@ -26,12 +26,12 @@ News
 
 Education
 ======
-- PhD, Computer Science and Engineering, University of North Texas _(2019 - 2023)_ <br />
+- Ph.D., Computer Science and Engineering, University of North Texas _(2019 - 2023)_ <br />
 &ensp; <ins>Dissertation title</ins>: _Deep Learning Methods to Investigate Online Hate Speech and Counterhate
 Replies to Mitigate Hateful Content_ <br />
 &ensp; <ins>Research area</ins>: _Deep Learning, Natural Language Processing, Computational Linguistics, and Information Retrieval_
-- MSc, Software Engineering, Southern Methodist University _(2012 - 2014)_
-- BSc, Information System, King Saud University _(2004 - 2009)_
+- M.Sc., Software Engineering, Southern Methodist University _(2012 - 2014)_
+- B.Sc., Information System, King Saud University _(2004 - 2009)_
 
 Work Experiences
 ======
