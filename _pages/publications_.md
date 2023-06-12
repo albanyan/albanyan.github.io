@@ -5,6 +5,8 @@ permalink: /publications_/
 author_profile: true
 
 ---
+<p align="justify">
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=WH3t6VwAAAAJ).
 
 ## 2023
@@ -25,3 +27,5 @@ _(Accepted, To Appear)_
 [[bibtex](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=21284&publicationId=19571)]
 [[corpus](https://github.com/albanyan/hateful-tweets-replies)]
 [[supplementary materials](/files/hate-twitter-supplemental.pdf)]
+
+</p>
