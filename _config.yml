@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Abdullah Albanyan"
   avatar           : "albanyan_2.jpg"
-  bio              : "Assistant Professor. Interested in: Deep Learning, Natural Language Processing, Computational Linguistics"
+  bio              : "Assistant Professor in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University."
   location         : "Riyadh, Saudi Arabia"
-  employer         : "College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University"
+  employer         : #"College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WH3t6VwAAAAJ"
   email            : "a.albanyan@psau.edu.sa"
