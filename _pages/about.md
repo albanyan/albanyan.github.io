@@ -36,8 +36,8 @@ Replies to Mitigate Hateful Content_ <br />
 Work Experiences
 ======
 - Assistant Professor in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2023 – present)_
-- Lecturer in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2013 – 2023)_
-- Demonstrator in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – 2013)_
+- Lecturer in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2014 – 2023)_
+- Demonstrator in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – 2014)_
 - Demonstrator in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
 - Trainee at Saudi Basic Industries Corporation (SABIC) _(2008)_
 
