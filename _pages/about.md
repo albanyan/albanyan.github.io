@@ -31,7 +31,7 @@ Education
 Replies to Mitigate Hateful Content_ <br />
 &ensp; <ins>Research area</ins>: _Deep Learning, Natural Language Processing, Computational Linguistics, and Information Retrieval_
 - M.Sc., Software Engineering, Southern Methodist University _(2012 - 2014)_
-- B.Sc., Information System, King Saud University _(2004 - 2009)_
+- B.Sc., Information Systems, King Saud University _(2004 - 2009)_
 
 Work Experiences
 ======
@@ -40,4 +40,5 @@ Work Experiences
 - Demonstrator in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – 2014)_
 - Demonstrator in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
 - Trainee at Saudi Basic Industries Corporation (SABIC) _(2008)_
+
 
