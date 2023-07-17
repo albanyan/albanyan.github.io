@@ -16,6 +16,7 @@ I am an assistant professor in the <a href="https://cces.psau.edu.sa/en"> Colleg
 
 News 
 ======
+- 07/2022: Invited to serve [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) as a Program Committee Member.
 - 05/2023: Our paper titled "Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis" has been accepted at [*SEM 2023](https://sites.google.com/view/starsem2023/home?authuser=0), co-located with [ACL 2023](https://2023.aclweb.org/).
 - 03/2023: I passed the Dissertation Defense.
 - 02/2023: Invited to serve as a reviewer for [ACL 2023](https://2023.aclweb.org/).
