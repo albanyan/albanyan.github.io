@@ -10,7 +10,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## 2023
 
 - **Abdullah Albanyan**, Ahmed Hassan, and Eduardo Blanco. 2023. Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis. The 12th Joint Conference on Lexical and Computational Semantics (*SEM), Co-located with ACL 2023. <br />
-_(Accepted, To Appear)_
+[[paper link](https://aclanthology.org/2023.starsem-1.8/)]
+[[corpus](https://github.com/albanyan/counterhate_reply)]
 
 - Shabbab Algamdi, **Abdullah Albanyan**, and Stephanie Ludi. 2023. Investigating the Usability Issues in Mobile Applications Reviews Using A Deep Learning Model. IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC). <br />
 [[paper link](https://ieeexplore.ieee.org/abstract/document/10099350/)]
