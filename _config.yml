@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : " "
 title_separator          : "|"
-name                     : &name "Abdullah Albanyan"
+name                     : &name "Abdullah Abdulaziz Albanyan"
 description              : &description "Assistant Professor in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University"
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdullah Albanyan"
+  name             : "Abdullah Abdulaziz Albanyan"
   avatar           : "albanyan_2.jpg"
   bio              : "Assistant Professor, College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University"
   location         : "Riyadh, Saudi Arabia"
