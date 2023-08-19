@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an assistant professor in the <a href="https://cces.psau.edu.sa/en"> College of Computer Engineering and Sciences</a> at <a href="https://psau.edu.sa/en">Prince Sattam bin Abdulaziz University</a>. I graduated with a Ph.D. from the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
+I am an <a href="https://faculty.psau.edu.sa/ar/psau/facultymember/a.albanyan">  assistant professor</a> in the <a href="https://cces.psau.edu.sa/en"> College of Computer Engineering and Sciences</a> at <a href="https://psau.edu.sa/en">Prince Sattam bin Abdulaziz University</a>. I graduated with a Ph.D. from the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at <a href="https://www.unt.edu/">University of North Texas</a>. My research interests include artificial intelligence, natural language processing, computational linguistics, information retrieval, and in particular, sentiment analysis and opinion mining on social media platforms.
 
 </p>
 
