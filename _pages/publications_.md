@@ -9,6 +9,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2023
 
+- **Abdullah Albanyan**, Ahmed Hassan, and Eduardo Blanco. 2023. Finding Authentic Counterhate Arguments: A Case Study with Public Figures. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (_To appear at EMNLP 2023_).
+
+
 - **Abdullah Albanyan**, Ahmed Hassan, and Eduardo Blanco. 2023. Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis. In Proceedings of The 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 71–88, Toronto, Canada. Association for Computational Linguistics (ACL). <br />
 [[paper link](https://aclanthology.org/2023.starsem-1.8/)]
 [[code & corpus](https://github.com/albanyan/counterhate_reply)]
