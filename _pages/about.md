@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdullah Abdulaziz Albanyan | عبدالله بن عبدالعزيز البنيان"
+title: "Abdullah Abdulaziz Albanyan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
