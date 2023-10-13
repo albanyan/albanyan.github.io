@@ -20,6 +20,7 @@ News
 - 07/2023: Invited to serve as a Program Committee Member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/).
 - 06/2023: Invited to be a reviewer for [EMNLP 2023](https://2023.emnlp.org/).
 - 05/2023: Our paper titled "Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis" has been accepted at [*SEM 2023](https://sites.google.com/view/starsem2023/home?authuser=0), co-located with [ACL 2023](https://2023.aclweb.org/).
+- 05/2023: Participate in the Virtual Graduation Ceremony honoring PhD recipients, [Spring 2023](https://vgrad2.z19.web.core.windows.net/unt/684/i/#20475-6073641)
 - 03/2023: I passed the Dissertation Defense.
 - 02/2023: Invited to serve as a reviewer for [ACL 2023](https://2023.aclweb.org/).
 - 08/2022: Invited to become a Program Committee Member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
