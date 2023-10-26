@@ -39,6 +39,7 @@ Replies to Mitigate Hateful Content_ <br />
 
 Work Experiences
 ======
+- Vice Dean for Academic Affairs at the College of Computer Science at Prince Sattam bin Abdulaziz University _(2023 – present)_
 - Assistant Professor in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2023 – present)_
 - Lecturer in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2014 – 2023)_
 - Demonstrator in the College of Computer Science at Prince Sattam bin Abdulaziz University _(2010 – 2014)_
