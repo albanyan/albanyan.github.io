@@ -14,7 +14,7 @@ I am an <a href="https://faculty.psau.edu.sa/en/psau/facultymember/a.albanyan"> 
 </p>
 
 
-News 
+Latest Achievements 
 ======
 - 10/2023: Our paper titled “Finding Authentic Counterhate Arguments: A Case Study with Public Figures” got accepted to the main conference [EMNLP 2023](https://2023.emnlp.org).
 - 10/2023: Assigned as Vice Dean for Academic Affairs in the <a href="https://cces.psau.edu.sa/en"> College of Computer Engineering and Sciences</a> at <a href="https://psau.edu.sa/en">Prince Sattam bin Abdulaziz University</a>.
