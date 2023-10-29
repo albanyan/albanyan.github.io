@@ -17,8 +17,10 @@ I am an <a href="https://faculty.psau.edu.sa/en/psau/facultymember/a.albanyan"> 
 News 
 ======
 - 10/2023: Our paper titled “Finding Authentic Counterhate Arguments: A Case Study with Public Figures” got accepted to the main conference [EMNLP 2023](https://2023.emnlp.org).
+- 10/2023: Assigned as Vice Dean for Academic Affairs in the <a href="https://cces.psau.edu.sa/en"> College of Computer Engineering and Sciences</a> at <a href="https://psau.edu.sa/en">Prince Sattam bin Abdulaziz University</a>.
 - 07/2023: Invited to serve as a Program Committee Member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/).
 - 06/2023: Invited to be a reviewer for [EMNLP 2023](https://2023.emnlp.org/).
+- 06/2023: Promoted to Assistant Professor.
 - 05/2023: Our paper titled "Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis" has been accepted at [*SEM 2023](https://sites.google.com/view/starsem2023/home?authuser=0), co-located with [ACL 2023](https://2023.aclweb.org/).
 - 05/2023: Participate in the Virtual Graduation Ceremony honoring PhD recipients, [Spring 2023](https://vgrad2.z19.web.core.windows.net/unt/684/i/#20475-6073641)
 - 03/2023: I passed the Dissertation Defense.
