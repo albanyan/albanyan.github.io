@@ -30,7 +30,7 @@ Latest Achievements
 - 12/2021: I passed the Qualifying Exam.
 - 12/2021: Our paper on analyzing hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
-Education
+Educations
 ======
 - Ph.D., Computer Science and Engineering, University of North Texas _(2019 - 2023)_ <br />
 &ensp; <ins>Dissertation title</ins>: _Deep Learning Methods to Investigate Online Hate Speech and Counterhate
