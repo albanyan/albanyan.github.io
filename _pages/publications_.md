@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 [[paper link](https://aclanthology.org/2023.emnlp-main.855/)]
 [[code & corpus](https://github.com/albanyan/counterhate_paragraph)]
 
-- Khan, Saddam Hussain, Tahani Jaser Alahmadi, Tariq Alsahfi, Abeer Abdullah Alsadhan, Alanoud Al Mazroa, Hend Khalid Alkahtani, **Abdullah Albanyan**, and Hesham A. Sakr. "COVID-19 infection analysis framework using novel boosted CNNs and radiological images." Scientific Reports 13, no. 1 (2023): 21837.
+- Khan, Saddam Hussain, Tahani Jaser Alahmadi, Tariq Alsahfi, Abeer Abdullah Alsadhan, Alanoud Al Mazroa, Hend Khalid Alkahtani, **Abdullah Albanyan**, and Hesham A. Sakr. "COVID-19 infection analysis framework using novel boosted CNNs and radiological images." Scientific Reports 13, no. 1 (2023): 21837. <br />
 [[paper link](https://www.nature.com/articles/s41598-023-49218-7)]
 
 - Shabbab Algamdi, **Abdullah Albanyan**, and Stephanie Ludi. "Education Application Usability Assessments: Comparison Between Blackboard and Canvas Based on App Reviews." 2023 Eighth International Conference On Mobile And Secure Services (MobiSecServ). IEEE, 2023. <br />
