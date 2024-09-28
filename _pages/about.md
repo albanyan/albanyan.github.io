@@ -48,4 +48,11 @@ Work Experiences
 - Demonstrator in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
 - Trainee at Saudi Basic Industries Corporation (SABIC) _(2008)_
 
-
+Academic Services
+======
+- Reviewer:
+  - ACL 2023
+  - EMNLP 2023
+  - AAAI 2023
+  - AAAI 2024
+  - AAAI 2025
