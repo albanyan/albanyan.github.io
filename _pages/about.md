@@ -51,8 +51,8 @@ Work Experiences
 Academic Services
 ======
 - Reviewer:
-  - ACL 2023
-  - EMNLP 2023
-  - AAAI 2023
-  - AAAI 2024
+  - ACL 2023 <!-- https://2023.aclweb.org/downloads/acl2023-handbook.pdf -->
+  - EMNLP 2023 <!-- https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Nov-30.pdf -->
+  - AAAI 2023 <!-- (https://aaai.org/conference/aaai/aaai-23/aaai-23-program-committee/) -->
+  - AAAI 2024 <!-- (https://aaai.org/aaai-24-conference/aaai-24-program-committee/) -->
   - AAAI 2025
