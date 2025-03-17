@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : " "
 title_separator          : "|"
 name                     : &name "Abdullah Albanyan"
-description              : &description "Assistant Professor in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University"
+description              : &description <div style="text-align: justify"> "Assistant Professor in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University"</div>
 url                      : https://albanyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "albanyan/albanyan.github.io"
