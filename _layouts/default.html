@@ -49,7 +49,7 @@ layout: compress
 
         log.innerHTML += `<div><strong>You:</strong> ${input}</div>`;
 
-        const response = await fetch("/api/chat", {
+        const response = await fetch("https://albanyan-api.vercel.app/api/chat", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message: input })
