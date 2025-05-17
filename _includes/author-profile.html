@@ -129,21 +129,30 @@
 </div>
 
 <script>
-  function sendChat() {
+  async function sendChat() {
     const input = document.getElementById("chat-input").value;
     const log = document.getElementById("chat-log");
     if (!input.trim()) return;
 
     log.innerHTML += `<div><strong>You:</strong> ${input}</div>`;
 
-    // Placeholder reply (will replace with real AI later)
-    let response = "I’m still learning about Dr. Abdullah. Please check back soon.";
+    const response = await fetch("/api/chat", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ message: input })
+    });
 
-    log.innerHTML += `<div><strong>Bot:</strong> ${response}</div>`;
+    const data = await response.json();
+    const botReply = data.reply || "ما قدرت أجاوب على هذا السؤال.";
+
+    log.innerHTML += `<div><strong>Bot:</strong> ${botReply}</div>`;
     document.getElementById("chat-input").value = "";
     log.scrollTop = log.scrollHeight;
   }
 </script>
+
     
   </div>
 </div>
