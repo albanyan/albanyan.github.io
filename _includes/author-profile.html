@@ -118,41 +118,6 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
-    </ul>
-
-    <!-- Chatbot container -->
-<div id="chatbot-container" style="margin-top: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
-  <strong>Ask me anything 👇</strong>
-  <div id="chat-log" style="height: 150px; overflow-y: auto; border: 1px solid #eee; margin-top: 10px; padding: 5px; font-size: 14px;"></div>
-  <input type="text" id="chat-input" placeholder="Type your question..." style="width: 100%; margin-top: 10px;" />
-  <button onclick="sendChat()" style="width: 100%; margin-top: 5px;">Send</button>
-</div>
-
-<script>
-  async function sendChat() {
-    const input = document.getElementById("chat-input").value;
-    const log = document.getElementById("chat-log");
-    if (!input.trim()) return;
-
-    log.innerHTML += `<div><strong>You:</strong> ${input}</div>`;
-
-    const response = await fetch("/api/chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({ message: input })
-    });
-
-    const data = await response.json();
-    const botReply = data.reply || "ما قدرت أجاوب على هذا السؤال.";
-
-    log.innerHTML += `<div><strong>Bot:</strong> ${botReply}</div>`;
-    document.getElementById("chat-input").value = "";
-    log.scrollTop = log.scrollHeight;
-  }
-</script>
-
-    
+    </ul>    
   </div>
 </div>
