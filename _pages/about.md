@@ -13,7 +13,7 @@ I am an <a href="https://faculty.psau.edu.sa/en/psau/facultymember/a.albanyan"> 
 
 </p>
 
-
+<!--
 Latest Achievements 
 ======
 - 10/2023: Our paper titled “Finding Authentic Counterhate Arguments: A Case Study with Public Figures” got accepted to the main conference [EMNLP 2023](https://2023.emnlp.org).
@@ -29,6 +29,7 @@ Latest Achievements
 - 04/2022: I passed the Dissertation Proposal Defense.
 - 12/2021: I passed the Qualifying Exam.
 - 12/2021: Our paper on analyzing hateful tweets and replies has been accepted at [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+-->
 
 Educations
 ======
@@ -41,8 +42,8 @@ Replies to Mitigate Hateful Content_ <br />
 
 Work Experiences
 ======
-- Vice Dean for Academic Affairs at the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University _(2023 – present)_
 - Assistant Professor in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University _(2023 – present)_
+- Vice Dean for Academic Affairs at the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University _(2023 – 2025)_
 - Lecturer in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University _(2014 – 2023)_
 - Demonstrator in the College of Computer Engineering and Sciences at Prince Sattam bin Abdulaziz University _(2010 – 2014)_
 - Demonstrator in the College of Computing and Information Science at King Saud University _(2009 – 2010)_
@@ -55,4 +56,4 @@ Academic Services
   - EMNLP 2023 <!-- https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Nov-30.pdf -->
   - AAAI 2023 <!-- (https://aaai.org/conference/aaai/aaai-23/aaai-23-program-committee/) -->
   - AAAI 2024 <!-- (https://aaai.org/aaai-24-conference/aaai-24-program-committee/) -->
-  - AAAI 2025
+  - AAAI 2025 <!-- (https://aaai.org/aaai-24-conference/aaai-25-program-committee/) -->
